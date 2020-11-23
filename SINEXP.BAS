@@ -1,0 +1,8 @@
+DO
+SCREEN 12
+FOR x = 1 TO 360
+CONST PI = 3.14159265#
+LINE (SIN(x / 180 * PI) * 35 + 320, COS(x / 180 * PI) * 185 + 240)-(SIN(x / 180 * PI) * 185 + 320, COS(x / 180 * PI) * 35 + 240)
+NEXT
+LOOP
+

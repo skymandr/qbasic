@@ -1,0 +1,27 @@
+SCREEN 13
+CLS
+
+T = 253
+OUT 968, 1
+FOR N = 1 TO 122
+T = T - 1
+OUT 969, 253 / 4
+OUT 969, T / 4
+OUT 969, 0 / 4
+NEXT N
+
+T = 253
+FOR N = 122 TO 253
+T = T - 1
+OUT 969, T / 4
+OUT 969, 0 / 4
+OUT 969, 0 / 4
+NEXT N
+
+
+FOR I = 1 TO 255
+COLOR I
+PRINT "Û";
+NEXT I
+SLEEP
+

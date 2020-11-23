@@ -1,0 +1,100 @@
+---New Data---
+size:  120 
+n:  4 
+Probability sweep: 
+ start:  .4 
+ stop:  .8 
+ increment:  .1 
+ p: , sum: , std dev:
+ .4            0             0 
+ .5            0             0 
+ .6            6             .5773503 
+ .7            14            .5773503 
+ .8000001      22            .5773503 
+---New Data---
+size:  128 
+n:  10 
+Probability sweep: 
+ start:  .4 
+ stop:  .7 
+ increment:  .01 
+ p: , sum: , std dev:
+ .4            0             0 
+ .41           0             0 
+---New Data---
+size:  128 
+n:  10 
+Probability sweep: 
+ start:  .5 
+ stop:  .6 
+ increment:  .01 
+ p: , sum: , std dev:
+---New Data---
+size:  128 
+n:  10 
+Probability sweep: 
+ start:  .5 
+ stop:  .6 
+ increment:  .01 
+ p: , sum: , std dev:
+---New Data---
+size:  128 
+n:  5 
+Probability sweep: 
+ start:  .5 
+ stop:  .6 
+ increment:  .05 
+ p: , sum: , std dev:
+ .5            0             0 
+ .55           0             0 
+ .6            7             .5477225 
+ .65           17            .5477225 
+---New Data---
+size:  128 
+n:  4 
+Probability sweep: 
+ start:  .5 
+ stop:  .6 
+ increment:  .02 
+ p , sum ;
+ .5 ,  0 ; 
+ .52 ,  0 ; 
+ .54 ,  0 ; 
+ .5599999 ,  0 ; 
+ .5799999 ,  3 ; 
+ .5999999 ,  6 ; 
+ .6199999 ,  14 ; 
+---New Data---
+size:  128 
+n:  2 
+Probability sweep: 
+ start:  .5 
+ stop:  .6 
+ increment:  .02 
+ p , sum ;
+ .5 ,  0 ; 
+ .52 ,  0 ; 
+ .54 ,  0 ; 
+ .5599999 ,  0 ; 
+ .5799999 ,  0 ; 
+ .5999999 ,  3 ; 
+ .6199999 ,  7 ; 
+---New Data---
+size:  128 
+n:  4 
+Probability sweep: 
+ start:  .54 
+ stop:  .63 
+ increment:  .01 
+ p , sum ;
+ .54 ,  0 ; 
+ .55 ,  0 ; 
+ .56 ,  0 ; 
+ .57 ,  0 ; 
+ .58 ,  2 ; 
+ .59 ,  6 ; 
+ .6 ,  13 ; 
+ .61 ,  21 ; 
+ .6199999 ,  29 ; 
+ .6299999 ,  37 ; 
+ .6399999 ,  45 ; 
